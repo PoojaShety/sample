@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37" started-at="2020-02-08T22:54:16 IST" finished-at="2020-02-08T22:54:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37" started-at="2020-02-08T22:54:16 IST" finished-at="2020-02-08T22:54:16 IST">
+      <class name="testcases.learnAnnotation">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.learnAnnotation@711f39f9]" name="beforeSuite" is-config="true" duration-ms="13" started-at="2020-02-08T22:54:16 IST" finished-at="2020-02-08T22:54:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.learnAnnotation@711f39f9]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-02-08T22:54:16 IST" finished-at="2020-02-08T22:54:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.learnAnnotation@711f39f9]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-02-08T22:54:16 IST" finished-at="2020-02-08T22:54:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.learnAnnotation@711f39f9]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-02-08T22:54:16 IST" finished-at="2020-02-08T22:54:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:testcases.learnAnnotation@711f39f9]" name="f" duration-ms="5" started-at="2020-02-08T22:54:16 IST" finished-at="2020-02-08T22:54:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.learnAnnotation@711f39f9]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-02-08T22:54:16 IST" finished-at="2020-02-08T22:54:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.learnAnnotation@711f39f9]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-02-08T22:54:16 IST" finished-at="2020-02-08T22:54:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.learnAnnotation@711f39f9]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-02-08T22:54:16 IST" finished-at="2020-02-08T22:54:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.learnAnnotation@711f39f9]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-02-08T22:54:17 IST" finished-at="2020-02-08T22:54:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.learnAnnotation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
